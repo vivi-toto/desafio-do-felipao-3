@@ -20,7 +20,3 @@ guerreiro.atacar();
 mago.atacar();
 monge.atacar();
 ninja.atacar();
-
-
-
-
